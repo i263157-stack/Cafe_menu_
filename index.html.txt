@@ -23,6 +23,7 @@
             The perfect place to relax, grab an iced matcha, or enjoy a fresh cinnamon roll. 
             Experience premium coffee and a cozy atmosphere right in the heart of the city.
         </p>
+        <p style="text-align: center; font-weight: bold;">New weekend specials coming soon!</p>
         <div style="text-align: center; margin-top: 40px;">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQokJr2fOZKPDzTEl5Q7_TiwgbEXMtzfM_2MUu5NMAfvA&s=10" alt="Cafe Interior" style="max-width: 100%; height: 300px; object-fit: cover; border-radius: 8px;">
             <br><br>
