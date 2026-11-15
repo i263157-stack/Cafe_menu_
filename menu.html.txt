@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<!-- Name: Muhammad Uzair Imran -->
+<!-- Roll Number: 26I-3157 -->
+<!-- Section: SE-E -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Menu - Uzair's Cafe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="menu.html">Menu</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h1>CAFE MENU</h1>
+        <h2>Categories:</h2>
+        
+        <h3>Iced Drinks:</h3>
+        <div class="iced-drink">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Item</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>Iced Coffee</td><td>350Rs</td></tr>
+                    <tr><td>Mint Margarita</td><td>450Rs</td></tr>
+                    <tr><td>Matcha</td><td>550Rs</td></tr>
+                </tbody>
+            </table>
+            <img class="Iced-coffe" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CpTHGCBKseymOBUcTcGR9TSzMxp_j0DGm3ThAKPzdQ&s=10" alt="Iced drink">
+        </div>
+
+        <h3>Hot Drinks:</h3>
+        <div class="hot-layout">
+            <table>
+            <thead>
+                <tr>
+                    <th>Item</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Cappuccino</td><td>500Rs</td></tr>
+                <tr><td>Americano</td><td>600Rs</td></tr>
+                <tr><td>Tea</td><td>250Rs</td></tr>
+                <tr><td>Ginger Tea</td><td>350Rs</td></tr>
+            </tbody>
+            </table>
+            <img class="Coffe" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQokJr2fOZKPDzTEl5Q7_TiwgbEXMtzfM_2MUu5NMAfvA&s=10" alt="Cafe drink">
+        </div>
+
+        <h3>Appetizers:</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Item</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Sandwiches</td><td>500Rs</td></tr>
+                <tr><td>Cinnamon Rolls</td><td>800Rs</td></tr>
+                <tr><td>Cinnamon toasts</td><td>700Rs</td></tr>
+            </tbody>
+        </table>
+    </main>
+    <footer>
+        <p>&copy; 2026 Uzair's Cafe. All rights reserved.</p>
+    </footer>
+</body>
+</html>

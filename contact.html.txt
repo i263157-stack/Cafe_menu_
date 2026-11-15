@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!-- Name: Muhammad Uzair Imran -->
+<!-- Roll Number: 26I-3157 -->
+<!-- Section: SE-E -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact - Uzair's Cafe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="menu.html">Menu</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h1>Contact Us</h1>
+        <p style="text-align: center;">Have a question or want to order ahead? Reach out to us!</p>
+        
+        <form class="contact-form" onsubmit="event.preventDefault(); window.alert('Thank you for reaching out! We will reply soon.');">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required placeholder="Enter your name">
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required placeholder="Enter your email">
+            
+            <label for="message">Message/Order:</label>
+            <textarea id="message" name="message" rows="5" required placeholder="What would you like to order?"></textarea>
+            
+            <button type="submit">Send Message</button>
+        </form>
+    </main>
+    <footer>
+        <p>&copy; 2026 Uzair's Cafe. All rights reserved.</p>
+    </footer>
+</body>
+</html>

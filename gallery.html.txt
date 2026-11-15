@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!-- Name: Muhammad Uzair Imran -->
+<!-- Roll Number: 26I-3157 -->
+<!-- Section: SE-E -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gallery - Uzair's Cafe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="menu.html">Menu</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h1>Our Cafe Gallery</h1>
+        <p style="text-align: center;">Take a look at our freshly baked goods and handcrafted beverages.</p>
+        
+        <div class="gallery-grid">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CpTHGCBKseymOBUcTcGR9TSzMxp_j0DGm3ThAKPzdQ&s=10" alt="Matcha Drink">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQokJr2fOZKPDzTEl5Q7_TiwgbEXMtzfM_2MUu5NMAfvA&s=10" alt="Hot Coffee">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQokJr2fOZKPDzTEl5Q7_TiwgbEXMtzfM_2MUu5NMAfvA&s=10" alt="Cafe Seating">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CpTHGCBKseymOBUcTcGR9TSzMxp_j0DGm3ThAKPzdQ&s=10" alt="Cold Beverages">
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2026 Uzair's Cafe. All rights reserved.</p>
+    </footer>
+</body>
+</html>

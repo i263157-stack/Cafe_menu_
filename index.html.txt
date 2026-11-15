@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!-- Name: Muhammad Uzair Imran -->
+<!-- Roll Number: 26I-3157 -->
+<!-- Section: SE-E -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home - Uzair's Cafe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="menu.html">Menu</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h1>Welcome to Uzair's Cafe</h1>
+        <p style="text-align: center; font-size: 18px;">
+            The perfect place to relax, grab an iced matcha, or enjoy a fresh cinnamon roll. 
+            Experience premium coffee and a cozy atmosphere right in the heart of the city.
+        </p>
+        <div style="text-align: center; margin-top: 40px;">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQokJr2fOZKPDzTEl5Q7_TiwgbEXMtzfM_2MUu5NMAfvA&s=10" alt="Cafe Interior" style="max-width: 100%; height: 300px; object-fit: cover; border-radius: 8px;">
+            <br><br>
+            <!-- Lab 12 JS Requirement -->
+            <button onclick="window.alert('Today\'s Special: Free Cinnamon Toast with any Hot Drink!')">Check Today's Special</button>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2026 Uzair's Cafe. All rights reserved.</p>
+    </footer>
+</body>
+</html>
